@@ -1,3 +1,10 @@
+# Realtime Chat DAPP
+ To play Around this app
+ 1. Just make an account on Metamask and create a Metamask wallet.
+ 2. Login to the app using your metamask credentials.
+ 3. And enjoy meassaging 😃.
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
